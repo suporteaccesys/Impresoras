@@ -1,4 +1,4 @@
-# Impresoras
+# Impressoras
 
 Devido ao tamanho, alguns Drivers, foram disponibilizados links diretamente do site da fabricante para download. São eles:
 
